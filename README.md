@@ -1,3 +1,3 @@
 # O3ConvNet
-An interpretable convolution based deep learning architecture for ozone prediction (O3ConvNet) separately extracting multidimensional features
+An Efficient and Interpretable Convolution-Based Deep Learning Architecture for Ozone Prediction (O3ConvNet) Separately Extracting Multidimensional Features
 
