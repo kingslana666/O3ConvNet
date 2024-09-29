@@ -1,7 +1,7 @@
 # O3ConvNet, a 3D feature extraction deep learning architecture for ozone prediction applying on graph data structure.
 This is the original code of paper "An Efficient and Interpretable Convolution-Based Deep Learning Architecture for Ozone Prediction (O3ConvNet) Separately Extracting Multidimensional Features".
 
-The code has not been made public yet.**  
+**The code has not been made public yet.**  
 Dear editor or reviewer, the code can be provided if necessary.
 
 ## Requirements
