@@ -6,7 +6,8 @@ Dear editor or reviewer, the code can be provided if necessary.
 
 ## Requirements
 python == 3.9  
-torch  
+torch == 1.13.1  
+cuda == 11.6  
 torch-geometric == 2.4.0  
 torch-geometric-temporal == 0.54.0  
 numpy == 1.26.2  
