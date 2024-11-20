@@ -1,5 +1,5 @@
-# O3ConvNet, A 3D feature extraction deep learning architecture for ozone prediction applying on graph data structure.
-This is the original code of paper "A Modern Convolution-Based Spatiotemporal Deep Learning Model Exploring Key Factors for Ozone Prediction Across Multiple Data Dimensions".
+# O3Conv-block, A 3D feature extraction deep learning block for ozone prediction applying on graph data structure.
+This is the original code of paper "A Modern Convolution-Based Dynamic Spatiotemporal Deep Learning Architecture for Ozone Prediction Separately Extracting Temporal, Cross-Variable, and Spatial Features".
 
 **The code has not been made public yet.**  
 Dear editor or reviewer, the code can be provided if necessary.
